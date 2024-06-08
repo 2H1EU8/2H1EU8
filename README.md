@@ -1,6 +1,6 @@
+<img alt="Night Coding" src="./header_.png" align="left"/><h2>Oh Hi!</h2>
 
-
-## 👋 &nbsp;Hey there! I'm Hieu Nguyen
+## 👋 &nbsp; I'm Hieu Nguyen
 
 ### 👨🏻‍💻 &nbsp;About Me
 
